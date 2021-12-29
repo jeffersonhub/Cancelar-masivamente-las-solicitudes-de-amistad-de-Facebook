@@ -1,0 +1,17 @@
+Esta es una pequeña gran ayuda, de como hacer para eliminar las solicitudes de amistad de la red social Facebook, pero de forma masiva, algo muy buscado porque es un trabajo bastante pesado de hacer si no lo hacemos como lo muestro a continuación. ACTUALIZADO a 2021!!
+
+Facebook no posee esta opción de cancelar con un botón, hay que ir de a una a la vez, que dicho sea de paso se hace:
+
+Haz clic en en la parte superior de cualquier página de Facebook.
+Haz clic en Buscar amigos‎.
+Haz clic en Ver las solicitudes enviadas.
+Pasa el cursor por encima de Solicitud de amistad enviada junto a la solicitud que quieres cancelar y selecciona Cancelar solicitud.
+Pero el truco que te muestro implica seguir unos pasos y ejecutar un código, que no hace nada más ni nada menos que hacer el trabajo y ahorrarnos muchos minutos. Esto lo probé y es seguro, de hecho si entienden un poco de programación es algo básico, solo juego de variables, pero explico el paso a paso para que sea claro y como siempre una captura de pantalla.
+
+1- Debemos usar Google Chrome si o si, así que si no lo tenes lo descargas desde su web.
+
+2- Abrimos sesión en Facebook y luego visitamos la parte para móviles, te darás cuenta porque tiene una m delante de la url, si no visita este link: https://m.facebook.com/friends/center/requests/outgoing/#friends_center_main
+
+3- Esta URL muestra la pantalla de las solicitudes enviadas, digamos que es un acceso directo, hay que desplazarse hasta abajo y se seguirán cargando las solicitudes, seguí hasta que termine. Ahora presionamos la tecla F12 y se abre un modo especial para ver el código fuente de la página, muy utilizado para desarrollo web, en fin, tocamos donde dice Console y pegamos el siguiente código seguido de la tecla Enter.
+
+Como verán a la izquierda se ve el botón Agregar a amigos, antes de hacer esto estaba en cancelar solicitud de amistad, 100% probado, seguro y de forma simple. Del lado derecho, en la sesión Console es donde pegue el código. Este tip me cancelo automáticamente 1000 solicitudes de amistad que es el límite que establece Facebook.
