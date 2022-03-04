@@ -15,3 +15,5 @@ Pero el truco que te muestro implica seguir unos pasos y ejecutar un código, qu
 3- Esta URL muestra la pantalla de las solicitudes enviadas, digamos que es un acceso directo, hay que desplazarse hasta abajo y se seguirán cargando las solicitudes, seguí hasta que termine. Ahora presionamos la tecla F12 y se abre un modo especial para ver el código fuente de la página, muy utilizado para desarrollo web, en fin, tocamos donde dice Console y pegamos el siguiente código seguido de la tecla Enter.
 
 Como verán a la izquierda se ve el botón Agregar a amigos, antes de hacer esto estaba en cancelar solicitud de amistad, 100% probado, seguro y de forma simple. Del lado derecho, en la sesión Console es donde pegue el código. Este tip me cancelo automáticamente 1000 solicitudes de amistad que es el límite que establece Facebook.
+
+https://www.facebook.com/friends/requests
